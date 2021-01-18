@@ -4,8 +4,8 @@
 
 
 const user =[];
-user[0]= prompt("ваше имя","");
-user[1]= prompt("ваше фамилия","");
-user[2]= prompt("сколько вам лет","");
+// user[0]= prompt("ваше имя","");
+// user[1]= prompt("ваше фамилия","");
+// user[2]= prompt("сколько вам лет","");
 
- document.write(user);
+console.log(typeof(user));
